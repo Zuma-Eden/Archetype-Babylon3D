@@ -2,26 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a7244fb-680a-49aa-9a63-5b4a4ee539da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/box.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/effect.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/flex.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/other.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/src/plugins/style in attribute/text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/index.html" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dev/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +62,7 @@
     <option name="width" value="1401" />
     <option name="height" value="1002" />
   </component>
+  <component name="ProjectId" id="1vG3aG7w0AHUjJKBDF6Y5xmzwL7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -73,25 +72,28 @@
     </navigator>
     <panes />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Mew-T1/Mew-PM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.Dockerfile" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\GitHub\祖玛乐园 Zuma-Eden\Archetype-Babylon3D\dev\src" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -105,6 +107,7 @@
       <workItem from="1615030627632" duration="2920000" />
       <workItem from="1615040336325" duration="1937000" />
       <workItem from="1615045561832" duration="219000" />
+      <workItem from="1626174662724" duration="3949000" />
     </task>
     <servers />
   </component>
@@ -146,7 +149,22 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dev/index.html">
